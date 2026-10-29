@@ -9,6 +9,8 @@ This repository presents an independent investigation of a Remus infostealer sam
 
 The investigation was performed **without executing the malware or contacting its command-and-control infrastructure**. Findings describe capabilities supported by static evidence, not behaviors observed on an infected host.
 
+**Supporting analysis files:** Raw Ghidra exports are provided to support independent review of the accompanying Remus report. These include decompiler-generated pseudocode and analysis metadata, rather than original malware source code. Exports may contain incomplete functions, inferred types, and decompilation errors; interpret them alongside the report’s evidence and limitations.
+
 **[Read the complete eight-page research report (PDF)](./Varkai_Remus_Report.pdf)**
 
 ## Key findings
