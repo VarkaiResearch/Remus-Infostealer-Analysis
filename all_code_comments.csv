@@ -1,0 +1,501 @@
+address,comment_type,comment
+"140000000","EOL","Magic number"
+"140000180","EOL",".text"
+"1400001a8","EOL",".rdata"
+"1400001d0","EOL",".data"
+"1400001f8","EOL",".pdata"
+"140000220","EOL",".fptable"
+"140000248","EOL","_RDATA"
+"140000270","EOL",".rsrc"
+"140000298","EOL",".reloc"
+"1400ffd60","PLATE","Library Function - Single Match
+ __chkstk
+
+Libraries: Visual Studio 2005, Visual Studio 2008, Visual Studio 2010, Visual Studio 2012"
+"140101f7c","PLATE","Library Function - Multiple Matches With Same Base Name
+ void __cdecl uninitialize_environment_internal<char>(char * __ptr64 * __ptr64 & __ptr64)
+ void __cdecl uninitialize_environment_internal<wchar_t>(wchar_t * __ptr64 * __ptr64 & __ptr64)
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140101f98","PLATE","Library Function - Multiple Matches With Same Base Name
+ void __cdecl uninitialize_environment_internal<char>(char * __ptr64 * __ptr64 & __ptr64)
+ void __cdecl uninitialize_environment_internal<wchar_t>(wchar_t * __ptr64 * __ptr64 & __ptr64)
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140101fb4","PLATE","Library Function - Multiple Matches With Same Base Name
+ void __cdecl free_environment<char>(char * __ptr64 * __ptr64 const)
+ void __cdecl free_environment<wchar_t>(wchar_t * __ptr64 * __ptr64 const)
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401024a8","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_99476a1ad63dd22509b5d3e65b0ffc95>,class <lambda_ad1ced32f4ac17aa236e5ef05d6b3b7c> & __ptr64,class <lambda_f7424dd8d45958661754dc4f2697e9c3> >(class <lambda_99476a1ad63dd22509b5d3e65b0ffc95> && __ptr64,class <lambda_ad1ced32f4ac17aa236e5ef05d6b3b7c> & __ptr64,class <lambda_f7424dd8d45958661754dc4f2697e9c3> && __ptr64) __ptr64
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_d80eeec6fff315bfe5c115232f3240e3>,class <lambda_6e4b09c48022b2350581041d5f6b0c4c> & __ptr64,class <lambda_2358e3775559c9db80273638284d5e45> >(class <lambda_d80eeec6fff315bfe5c115232f3240e3> && __ptr64,class <lambda_6e4b09c48022b2350581041d5f6b0c4c> & __ptr64,class <lambda_2358e3775559c9db80273638284d5e45> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401024e0","PLATE","Library Function - Single Match
+ _set_fmode
+
+Library: Visual Studio 2012 Release"
+"1401027b0","PLATE","Library Function - Single Match
+ __acrt_uninitialize_locale
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401027e0","PLATE","Library Function - Single Match
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_410d79af7f07d98d83a3f525b3859a53>,class <lambda_3e16ef9562a7dcce91392c22ab16ea36> & __ptr64,class <lambda_38119f0e861e05405d8a144b9b982f0a> >(class <lambda_410d79af7f07d98d83a3f525b3859a53> && __ptr64,class <lambda_3e16ef9562a7dcce91392c22ab16ea36> & __ptr64,class <lambda_38119f0e861e05405d8a144b9b982f0a> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140102b9c","PLATE","Library Function - Single Match
+ _initialize_onexit_table
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140102bc4","PLATE","Library Function - Single Match
+ _register_onexit_function
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140102f20","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: int __cdecl __crt_seh_guarded_call<int>::operator()<class <lambda_638799b9deba96c50f710eeac98168cd>,class <lambda_22ebabd17bc4fa466a2aca6d8deb888d> & __ptr64,class <lambda_a6f7d7db0129f75315ebf26d50c089f1> >(class <lambda_638799b9deba96c50f710eeac98168cd> && __ptr64,class <lambda_22ebabd17bc4fa466a2aca6d8deb888d> & __ptr64,class <lambda_a6f7d7db0129f75315ebf26d50c089f1> && __ptr64) __ptr64
+ public: int __cdecl __crt_seh_guarded_call<int>::operator()<class <lambda_b8c45f8f788dd370798f47cfe8ac3a86>,class <lambda_4e60a939b0d047cfe11ddc22648dfba9> & __ptr64,class <lambda_332c3edc96d0294ec56c57d38c1cdfd5> >(class <lambda_b8c45f8f788dd370798f47cfe8ac3a86> && __ptr64,class <lambda_4e60a939b0d047cfe11ddc22648dfba9> & __ptr64,class <lambda_332c3edc96d0294ec56c57d38c1cdfd5> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140102f5c","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: int __cdecl __crt_seh_guarded_call<int>::operator()<class <lambda_638799b9deba96c50f710eeac98168cd>,class <lambda_22ebabd17bc4fa466a2aca6d8deb888d> & __ptr64,class <lambda_a6f7d7db0129f75315ebf26d50c089f1> >(class <lambda_638799b9deba96c50f710eeac98168cd> && __ptr64,class <lambda_22ebabd17bc4fa466a2aca6d8deb888d> & __ptr64,class <lambda_a6f7d7db0129f75315ebf26d50c089f1> && __ptr64) __ptr64
+ public: int __cdecl __crt_seh_guarded_call<int>::operator()<class <lambda_7777bce6b2f8c936911f934f8298dc43>,class <lambda_f03950bc5685219e0bcd2087efbe011e> & __ptr64,class <lambda_3883c3dff614d5e0c5f61bb1ac94921c> >(class <lambda_7777bce6b2f8c936911f934f8298dc43> && __ptr64,class <lambda_f03950bc5685219e0bcd2087efbe011e> & __ptr64,class <lambda_3883c3dff614d5e0c5f61bb1ac94921c> && __ptr64) __ptr64
+ public: int __cdecl __crt_seh_guarded_call<int>::operator()<class <lambda_8b90c8310d35b3462fe809c44bbb350d>,class <lambda_c1ccdfe150d00dafd355d15f2a9edeaa> & __ptr64,class <lambda_e797892004ba4c0bb152531b9d8c3715> >(class <lambda_8b90c8310d35b3462fe809c44bbb350d> && __ptr64,class <lambda_c1ccdfe150d00dafd355d15f2a9edeaa> & __ptr64,class <lambda_e797892004ba4c0bb152531b9d8c3715> && __ptr64) __ptr64
+ public: int __cdecl __crt_seh_guarded_call<int>::operator()<class <lambda_b8c45f8f788dd370798f47cfe8ac3a86>,class <lambda_4e60a939b0d047cfe11ddc22648dfba9> & __ptr64,class <lambda_332c3edc96d0294ec56c57d38c1cdfd5> >(class <lambda_b8c45f8f788dd370798f47cfe8ac3a86> && __ptr64,class <lambda_4e60a939b0d047cfe11ddc22648dfba9> & __ptr64,class <lambda_332c3edc96d0294ec56c57d38c1cdfd5> && __ptr64) __ptr64
+  5 names - too many to list
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103350","PLATE","Library Function - Single Match
+ void __cdecl replace_current_thread_locale_nolock(struct __acrt_ptd * __ptr64 const,struct __crt_locale_data * __ptr64 const)
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103488","PLATE","Library Function - Single Match
+ void __cdecl destroy_ptd_array(struct __acrt_ptd * __ptr64 const)
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103638","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_0ae27a3a962d80f24befdcbee591983d>,class <lambda_8d0ee55de4b1038c4002e0adecdf1839> & __ptr64,class <lambda_dc504788e8f1664fe9b84e20bfb512f2> >(class <lambda_0ae27a3a962d80f24befdcbee591983d> && __ptr64,class <lambda_8d0ee55de4b1038c4002e0adecdf1839> & __ptr64,class <lambda_dc504788e8f1664fe9b84e20bfb512f2> && __ptr64) __ptr64
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_72d1df2b273a38828b1ce30cbf4cdab5>,class <lambda_876a65b173b8412d3a47c70a915b0cf4> & __ptr64,class <lambda_41932305e351933ebe8f8be3ed8bb5dc> >(class <lambda_72d1df2b273a38828b1ce30cbf4cdab5> && __ptr64,class <lambda_876a65b173b8412d3a47c70a915b0cf4> & __ptr64,class <lambda_41932305e351933ebe8f8be3ed8bb5dc> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103678","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_5e887d1dcbef67a5eb4283622ba103bf>,class <lambda_4466841279450cc726390878d4a41900> & __ptr64,class <lambda_341c25c0346d94847f1f3c463c57e077> >(class <lambda_5e887d1dcbef67a5eb4283622ba103bf> && __ptr64,class <lambda_4466841279450cc726390878d4a41900> & __ptr64,class <lambda_341c25c0346d94847f1f3c463c57e077> && __ptr64) __ptr64
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_aa87e3671a710a21b5dc78c0bdf72e11>,class <lambda_92619d2358a28f41a33ba319515a20b9> & __ptr64,class <lambda_6992ecaafeb10aed2b74cb1fae11a551> >(class <lambda_aa87e3671a710a21b5dc78c0bdf72e11> && __ptr64,class <lambda_92619d2358a28f41a33ba319515a20b9> & __ptr64,class <lambda_6992ecaafeb10aed2b74cb1fae11a551> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401036c0","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_46352004c1216016012b18bd6f87e700>,class <lambda_3bd07e1a1191394380780325891bf33f> & __ptr64,class <lambda_334532d3f185bcaa59b5be82d7d22bff> >(class <lambda_46352004c1216016012b18bd6f87e700> && __ptr64,class <lambda_3bd07e1a1191394380780325891bf33f> & __ptr64,class <lambda_334532d3f185bcaa59b5be82d7d22bff> && __ptr64) __ptr64
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_f2e299630e499de9f9a165e60fcd3db5>,class <lambda_2ae9d31cdba2644fcbeaf08da7c24588> & __ptr64,class <lambda_40d01ff24d0e7b3814fdbdcee8eab3c7> >(class <lambda_f2e299630e499de9f9a165e60fcd3db5> && __ptr64,class <lambda_2ae9d31cdba2644fcbeaf08da7c24588> & __ptr64,class <lambda_40d01ff24d0e7b3814fdbdcee8eab3c7> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103720","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_2d41944a1d46af3157314b8a01080d33>,class <lambda_8f455de75cd7d7f24b4096f044d8b9e6> & __ptr64,class <lambda_aa500f224e6afead328df44964fe2772> >(class <lambda_2d41944a1d46af3157314b8a01080d33> && __ptr64,class <lambda_8f455de75cd7d7f24b4096f044d8b9e6> & __ptr64,class <lambda_aa500f224e6afead328df44964fe2772> && __ptr64) __ptr64
+ public: void __cdecl __crt_seh_guarded_call<void>::operator()<class <lambda_fb3a7dec4e47f37f22dae91bb15c9095>,class <lambda_698284760c8add0bfb0756c19673e34b> & __ptr64,class <lambda_dfb8eca1e75fef3034a8fb18dd509707> >(class <lambda_fb3a7dec4e47f37f22dae91bb15c9095> && __ptr64,class <lambda_698284760c8add0bfb0756c19673e34b> & __ptr64,class <lambda_dfb8eca1e75fef3034a8fb18dd509707> && __ptr64) __ptr64
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103784","PLATE","Library Function - Single Match
+ _invoke_watson
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140103f90","PLATE","Library Function - Single Match
+ _calloc_base
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140104070","PLATE","Library Function - Single Match
+ public: __cdecl _LocaleUpdate::_LocaleUpdate(struct __crt_locale_pointers * __ptr64 const) __ptr64
+
+Libraries: Visual Studio 2017 Debug, Visual Studio 2017 Release, Visual Studio 2019 Debug, Visual Studio 2019 Release"
+"140104d70","PLATE","Library Function - Single Match
+ __acrt_initialize_multibyte
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140105960","PLATE","Library Function - Single Match
+ __DestructExceptionObject
+
+Library: Visual Studio 2019 Release"
+"1401063e0","PLATE","Library Function - Single Match
+ _CreateFrameInfo
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106570","PLATE","Library Function - Single Match
+ __acrt_initialize_locks
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401065c0","PLATE","Library Function - Single Match
+ __acrt_uninitialize_locks
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401065f8","PLATE","Library Function - Multiple Matches With Different Base Names
+ __acrt_lock
+ __acrt_unlock
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106614","PLATE","Library Function - Single Match
+ __acrt_unlock
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010687c","PLATE","Library Function - Single Match
+ __acrt_lowio_destroy_handle_array
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401068cc","PLATE","Library Function - Single Match
+ __acrt_lowio_ensure_fh_exists
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401069f0","PLATE","Library Function - Single Match
+ __acrt_initialize_lowio
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106ca8","PLATE","Library Function - Single Match
+ __acrt_locale_free_monetary
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106db4","PLATE","Library Function - Single Match
+ __acrt_locale_free_numeric
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106e20","PLATE","Library Function - Single Match
+ __acrt_locale_free_time
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106f60","PLATE","Library Function - Single Match
+ _malloc_base
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140106fc0","PLATE","Library Function - Single Match
+ wcsncmp
+
+Library: Visual Studio 2005 Release"
+"140107190","PLATE","Library Function - Single Match
+ __acrt_add_locale_ref
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010721c","PLATE","Library Function - Single Match
+ __acrt_release_locale_ref
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401072c4","PLATE","Library Function - Single Match
+ __acrt_free_locale
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010743c","PLATE","Library Function - Single Match
+ __acrt_locale_add_lc_time_reference
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140107464","PLATE","Library Function - Single Match
+ __acrt_locale_release_lc_time_reference
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010748c","PLATE","Library Function - Single Match
+ __acrt_locale_free_lc_time_if_unreferenced
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401074c4","PLATE","Library Function - Single Match
+ __acrt_update_thread_locale_data
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140107ba0","PLATE","Library Function - Single Match
+ __except_validate_context_record
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140107e60","PLATE","Library Function - Single Match
+ _recalloc_base
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010815c","PLATE","Library Function - Single Match
+ __acrt_get_sigabrt_handler
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010933c","PLATE","Library Function - Single Match
+ __acrt_update_locale_info
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010941c","PLATE","Library Function - Single Match
+ _mbsdec_l
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"1401094b0","PLATE","Library Function - Single Match
+ __acrt_LCMapStringA
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140109ac0","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: static void __cdecl __FrameHandler3::SetUnwindTryBlock(unsigned __int64 * __ptr64,struct _xDISPATCHER_CONTEXT * __ptr64,struct _s_FuncInfo const * __ptr64,int)
+ void __cdecl __SetUnwindTryBlock(unsigned __int64 * __ptr64,struct _xDISPATCHER_CONTEXT * __ptr64,struct _s_FuncInfo const * __ptr64,int)
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"140109b00","PLATE","Library Function - Multiple Matches With Same Base Name
+ public: static int __cdecl __FrameHandler3::GetUnwindTryBlock(unsigned __int64 * __ptr64,struct _xDISPATCHER_CONTEXT * __ptr64,struct _s_FuncInfo const * __ptr64)
+ int __cdecl __GetUnwindTryBlock(unsigned __int64 * __ptr64,struct _xDISPATCHER_CONTEXT * __ptr64,struct _s_FuncInfo const * __ptr64)
+
+Library: Visual Studio"
+"140109f10","PLATE","Library Function - Single Match
+ public: __cdecl std::exception::exception(class std::exception const & __ptr64) __ptr64
+
+Library: Visual Studio 2019 Release"
+"14010b260","PLATE","Library Function - Single Match
+ _msize_base
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010b2b0","PLATE","Library Function - Single Match
+ _realloc_base
+
+Libraries: Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010c2d0","PLATE","Library Function - Single Match
+ __strncnt
+
+Libraries: Visual Studio 2015 Release, Visual Studio 2017 Release, Visual Studio 2019 Release"
+"14010c340","PLATE","Library Function - Single Match
+ _CallSettingFrame
+
+Library: Visual Studio"
+"14010cd9c","PLATE","Library Function - Single Match
+ __dcrt_lowio_ensure_console_output_initialized
+
+Libraries: Visual Studio 2017 Debug, Visual Studio 2017 Release, Visual Studio 2019 Debug, Visual Studio 2019 Release"
+"14010df20","PLATE","Library Function - Single Match
+ strlen
+
+Library: Visual Studio"
+"14010dff0","PLATE","Library Function - Single Match
+ strncmp
+
+Libraries: Visual Studio 2012, Visual Studio 2015, Visual Studio 2017, Visual Studio 2019"
+"140377840","PLATE","meta pointer for type_info::vftable"
+"140377850","PLATE","meta pointer for std::exception::vftable"
+"140377858","PLATE","const std::exception::vftable"
+"140377868","PLATE","meta pointer for std::bad_exception::vftable"
+"140377870","PLATE","const std::bad_exception::vftable"
+"14037bab0","PLATE","const type_info::RTTI Complete Object Locator"
+"14037bad8","PLATE","type_info::RTTI Class Hierarchy Descriptor"
+"14037baf0","PLATE","type_info::RTTI Base Class Array"
+"14037bb00","EOL","ref to TypeDescriptor (RTTI 0) for class"
+"14037bb00","PLATE","type_info::RTTI Base Class Descriptor at (0,-1,0,64)"
+"14037bb28","PLATE","const std::exception::RTTI Complete Object Locator"
+"14037bb50","PLATE","std::exception::RTTI Class Hierarchy Descriptor"
+"14037bb68","PLATE","std::exception::RTTI Base Class Array"
+"14037bb78","EOL","ref to TypeDescriptor (RTTI 0) for class"
+"14037bb78","PLATE","std::exception::RTTI Base Class Descriptor at (0,-1,0,64)"
+"14037bba0","PLATE","const std::bad_exception::RTTI Complete Object Locator"
+"14037bbc8","PLATE","std::bad_exception::RTTI Class Hierarchy Descriptor"
+"14037bbe0","PLATE","std::bad_exception::RTTI Base Class Array"
+"14037bbf8","EOL","ref to TypeDescriptor (RTTI 0) for class"
+"14037bbf8","PLATE","std::bad_exception::RTTI Base Class Descriptor at (0,-1,0,64)"
+"1403800b0","PLATE","IMAGE_IMPORT_DESCRIPTOR"
+"1403800d8","EOL","IMAGE_THUNK_DATA64"
+"1403800e0","EOL","IMAGE_THUNK_DATA64"
+"1403800e8","EOL","IMAGE_THUNK_DATA64"
+"1403800f0","EOL","IMAGE_THUNK_DATA64"
+"1403800f8","EOL","IMAGE_THUNK_DATA64"
+"140380100","EOL","IMAGE_THUNK_DATA64"
+"140380108","EOL","IMAGE_THUNK_DATA64"
+"140380110","EOL","IMAGE_THUNK_DATA64"
+"140380118","EOL","IMAGE_THUNK_DATA64"
+"140380120","EOL","IMAGE_THUNK_DATA64"
+"140380128","EOL","IMAGE_THUNK_DATA64"
+"140380130","EOL","IMAGE_THUNK_DATA64"
+"140380138","EOL","IMAGE_THUNK_DATA64"
+"140380140","EOL","IMAGE_THUNK_DATA64"
+"140380148","EOL","IMAGE_THUNK_DATA64"
+"140380150","EOL","IMAGE_THUNK_DATA64"
+"140380158","EOL","IMAGE_THUNK_DATA64"
+"140380160","EOL","IMAGE_THUNK_DATA64"
+"140380168","EOL","IMAGE_THUNK_DATA64"
+"140380170","EOL","IMAGE_THUNK_DATA64"
+"140380178","EOL","IMAGE_THUNK_DATA64"
+"140380180","EOL","IMAGE_THUNK_DATA64"
+"140380188","EOL","IMAGE_THUNK_DATA64"
+"140380190","EOL","IMAGE_THUNK_DATA64"
+"140380198","EOL","IMAGE_THUNK_DATA64"
+"1403801a0","EOL","IMAGE_THUNK_DATA64"
+"1403801a8","EOL","IMAGE_THUNK_DATA64"
+"1403801b0","EOL","IMAGE_THUNK_DATA64"
+"1403801b8","EOL","IMAGE_THUNK_DATA64"
+"1403801c0","EOL","IMAGE_THUNK_DATA64"
+"1403801c8","EOL","IMAGE_THUNK_DATA64"
+"1403801d0","EOL","IMAGE_THUNK_DATA64"
+"1403801d8","EOL","IMAGE_THUNK_DATA64"
+"1403801e0","EOL","IMAGE_THUNK_DATA64"
+"1403801e8","EOL","IMAGE_THUNK_DATA64"
+"1403801f0","EOL","IMAGE_THUNK_DATA64"
+"1403801f8","EOL","IMAGE_THUNK_DATA64"
+"140380200","EOL","IMAGE_THUNK_DATA64"
+"140380208","EOL","IMAGE_THUNK_DATA64"
+"140380210","EOL","IMAGE_THUNK_DATA64"
+"140380218","EOL","IMAGE_THUNK_DATA64"
+"140380220","EOL","IMAGE_THUNK_DATA64"
+"140380228","EOL","IMAGE_THUNK_DATA64"
+"140380230","EOL","IMAGE_THUNK_DATA64"
+"140380238","EOL","IMAGE_THUNK_DATA64"
+"140380240","EOL","IMAGE_THUNK_DATA64"
+"140380248","EOL","IMAGE_THUNK_DATA64"
+"140380250","EOL","IMAGE_THUNK_DATA64"
+"140380258","EOL","IMAGE_THUNK_DATA64"
+"140380260","EOL","IMAGE_THUNK_DATA64"
+"140380268","EOL","IMAGE_THUNK_DATA64"
+"140380270","EOL","IMAGE_THUNK_DATA64"
+"140380278","EOL","IMAGE_THUNK_DATA64"
+"140380280","EOL","IMAGE_THUNK_DATA64"
+"140380288","EOL","IMAGE_THUNK_DATA64"
+"140380290","EOL","IMAGE_THUNK_DATA64"
+"140380298","EOL","IMAGE_THUNK_DATA64"
+"1403802a0","EOL","IMAGE_THUNK_DATA64"
+"1403802a8","EOL","IMAGE_THUNK_DATA64"
+"1403802b0","EOL","IMAGE_THUNK_DATA64"
+"1403802b8","EOL","IMAGE_THUNK_DATA64"
+"1403802c0","EOL","IMAGE_THUNK_DATA64"
+"1403802c8","EOL","IMAGE_THUNK_DATA64"
+"1403802d0","EOL","IMAGE_THUNK_DATA64"
+"1403802d8","EOL","IMAGE_THUNK_DATA64"
+"1403802e0","EOL","IMAGE_THUNK_DATA64"
+"1403802e8","EOL","IMAGE_THUNK_DATA64"
+"1403802f0","EOL","IMAGE_THUNK_DATA64"
+"1403802f8","EOL","IMAGE_THUNK_DATA64"
+"140380308","PRE","160  CloseHandle  [Bound to: 0x380538]"
+"140380310","PRE","233  CreateFileW  [Bound to: 0x380546]"
+"140380318","PRE","306  DeleteCriticalSection  [Bound to: 0x380554]"
+"140380320","PRE","342  EncodePointer  [Bound to: 0x38056c]"
+"140380328","PRE","346  EnterCriticalSection  [Bound to: 0x38057c]"
+"140380330","PRE","393  ExitProcess  [Bound to: 0x380594]"
+"140380338","PRE","416  FindClose  [Bound to: 0x3805a2]"
+"140380340","PRE","422  FindFirstFileExW  [Bound to: 0x3805ae]"
+"140380348","PRE","439  FindNextFileW  [Bound to: 0x3805c2]"
+"140380350","PRE","453  FlsAlloc  [Bound to: 0x3805d2]"
+"140380358","PRE","454  FlsFree  [Bound to: 0x3805de]"
+"140380360","PRE","455  FlsGetValue  [Bound to: 0x3805e8]"
+"140380368","PRE","457  FlsSetValue  [Bound to: 0x3805f6]"
+"140380370","PRE","459  FlushFileBuffers  [Bound to: 0x380604]"
+"140380378","PRE","470  FreeEnvironmentStringsW  [Bound to: 0x380618]"
+"140380380","PRE","471  FreeLibrary  [Bound to: 0x380632]"
+"140380388","PRE","478  GetACP  [Bound to: 0x380640]"
+"140380390","PRE","493  GetCPInfo  [Bound to: 0x38064a]"
+"140380398","PRE","514  GetCommandLineA  [Bound to: 0x380656]"
+"1403803a0","PRE","515  GetCommandLineW  [Bound to: 0x380668]"
+"1403803a8","PRE","552  GetConsoleMode  [Bound to: 0x38067a]"
+"1403803b0","PRE","556  GetConsoleOutputCP  [Bound to: 0x38068c]"
+"1403803b8","PRE","580  GetCurrentProcess  [Bound to: 0x3806a2]"
+"1403803c0","PRE","581  GetCurrentProcessId  [Bound to: 0x3806b6]"
+"1403803c8","PRE","585  GetCurrentThreadId  [Bound to: 0x3806cc]"
+"1403803d0","PRE","613  GetEnvironmentStringsW  [Bound to: 0x3806e2]"
+"1403803d8","PRE","637  GetFileType  [Bound to: 0x3806fc]"
+"1403803e0","PRE","656  GetLastError  [Bound to: 0x38070a]"
+"1403803e8","PRE","676  GetModuleFileNameW  [Bound to: 0x38071a]"
+"1403803f0","PRE","679  GetModuleHandleExW  [Bound to: 0x380730]"
+"1403803f8","PRE","680  GetModuleHandleW  [Bound to: 0x380746]"
+"140380400","PRE","713  GetOEMCP  [Bound to: 0x38075a]"
+"140380408","PRE","736  GetProcAddress  [Bound to: 0x380766]"
+"140380410","PRE","743  GetProcessHeap  [Bound to: 0x380778]"
+"140380418","PRE","772  GetStartupInfoW  [Bound to: 0x38078a]"
+"140380420","PRE","774  GetStdHandle  [Bound to: 0x38079c]"
+"140380428","PRE","779  GetStringTypeW  [Bound to: 0x3807ac]"
+"140380430","PRE","791  GetSystemInfo  [Bound to: 0x3807be]"
+"140380438","PRE","797  GetSystemTimeAsFileTime  [Bound to: 0x3807ce]"
+"140380440","PRE","895  HeapAlloc  [Bound to: 0x3807e8]"
+"140380448","PRE","899  HeapFree  [Bound to: 0x3807f4]"
+"140380450","PRE","902  HeapReAlloc  [Bound to: 0x380800]"
+"140380458","PRE","904  HeapSize  [Bound to: 0x38080e]"
+"140380460","PRE","922  InitializeCriticalSectionEx  [Bound to: 0x38081a]"
+"140380468","PRE","925  InitializeSListHead  [Bound to: 0x380838]"
+"140380470","PRE","947  IsDebuggerPresent  [Bound to: 0x38084e]"
+"140380478","PRE","955  IsProcessorFeaturePresent  [Bound to: 0x380862]"
+"140380480","PRE","961  IsValidCodePage  [Bound to: 0x38087e]"
+"140380488","PRE","999  LCMapStringW  [Bound to: 0x380890]"
+"140380490","PRE","1011  LeaveCriticalSection  [Bound to: 0x3808a0]"
+"140380498","PRE","1017  LoadLibraryExW  [Bound to: 0x3808b8]"
+"1403804a0","PRE","1062  MultiByteToWideChar  [Bound to: 0x3808ca]"
+"1403804a8","PRE","1156  QueryPerformanceCounter  [Bound to: 0x3808e0]"
+"1403804b0","PRE","1179  RaiseException  [Bound to: 0x3808fa]"
+"1403804b8","PRE","1292  RtlCaptureContext  [Bound to: 0x38090c]"
+"1403804c0","PRE","1300  RtlLookupFunctionEntry  [Bound to: 0x380920]"
+"1403804c8","PRE","1302  RtlPcToFileHeader  [Bound to: 0x38093a]"
+"1403804d0","PRE","1306  RtlUnwindEx  [Bound to: 0x38094e]"
+"1403804d8","PRE","1307  RtlVirtualUnwind  [Bound to: 0x38095c]"
+"1403804e0","PRE","1388  SetFilePointerEx  [Bound to: 0x380970]"
+"1403804e8","PRE","1403  SetLastError  [Bound to: 0x380984]"
+"1403804f0","PRE","1430  SetStdHandle  [Bound to: 0x380994]"
+"1403804f8","PRE","1467  SetUnhandledExceptionFilter  [Bound to: 0x3809a4]"
+"140380500","PRE","1499  TerminateProcess  [Bound to: 0x3809c2]"
+"140380508","PRE","1534  UnhandledExceptionFilter  [Bound to: 0x3809d6]"
+"140380510","PRE","1565  VirtualProtect  [Bound to: 0x3809f2]"
+"140380518","PRE","1615  WideCharToMultiByte  [Bound to: 0x380a04]"
+"140380520","PRE","1634  WriteConsoleW  [Bound to: 0x380a1a]"
+"140380528","PRE","1635  WriteFile  [Bound to: 0x380a2a]"
+"140380538","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380546","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380554","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038056c","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038057c","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380594","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805a2","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805ae","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805c2","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805d2","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805de","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805e8","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403805f6","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380604","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380618","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380632","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380640","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038064a","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380656","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380668","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038067a","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038068c","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403806a2","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403806b6","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403806cc","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403806e2","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403806fc","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038070a","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038071a","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380730","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380746","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038075a","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380766","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380778","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038078a","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038079c","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403807ac","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403807be","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403807ce","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403807e8","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403807f4","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380800","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038080e","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038081a","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380838","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038084e","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380862","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038087e","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380890","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403808a0","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403808b8","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403808ca","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403808e0","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403808fa","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038090c","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380920","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038093a","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038094e","PLATE","IMAGE_IMPORT_BY_NAME"
+"14038095c","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380970","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380984","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380994","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403809a4","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403809c2","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403809d6","PLATE","IMAGE_IMPORT_BY_NAME"
+"1403809f2","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380a04","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380a1a","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380a2a","PLATE","IMAGE_IMPORT_BY_NAME"
+"140380a36","PLATE","IMAGE_IMPORT_DESCRIPTOR - DLL NAME"
+"140384a40","PLATE","class std::bad_exception RTTI Type Descriptor"
+"140384a50","EOL","TypeDescriptor.name"
+"140384a68","PLATE","class std::exception RTTI Type Descriptor"
+"140384a78","EOL","TypeDescriptor.name"
+"140384a90","PLATE","class type_info RTTI Type Descriptor"
+"140384aa0","EOL","TypeDescriptor.name"
+"14038a150","PLATE","Rsrc_Manifest_1_0 Size of resource: 0x59a bytes"
+"14038a6f0","PLATE","Rsrc_Icon_1_0 Size of resource: 0x39c bytes"
+"14038aa90","PLATE","Rsrc_GroupIcon_IDI_ICON1_0 Size of resource: 0x14 bytes"
+"14038aaa8","PLATE","Rsrc_Version_1_0 Size of resource: 0x2ec bytes"
